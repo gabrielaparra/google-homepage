@@ -1,3 +1,5 @@
-# google-homepage
+This is one of my first projects with HTML and CSS.
 
-Update 1
+Hope you like it!
+
+Gabriela.
