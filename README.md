@@ -4,5 +4,7 @@ The idea was to create a homepage visually like Google's. It has no functionalit
 
 Hope you like it!
 
-Gabriela.
+View output in browser: http://htmlpreview.github.io/?https://github.com/gbyparra/google-homepage/blob/master/index.html
+
+Gabriela,
 Oct 20 2016
